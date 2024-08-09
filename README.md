@@ -1,5 +1,3 @@
-# html.project1
- Harry Potter quiz
 <html>
     <head>
         <title>Sunayana's project 1(Harry Potter quiz)</title>
